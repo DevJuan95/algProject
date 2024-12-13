@@ -1,0 +1,162 @@
+  2024-12-13 15:53:23 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:24 App\Jobs\ProcessDelivery ................. 231.56ms DONE
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ................. 133.13ms DONE
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ................. 138.07ms DONE
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ................. 142.12ms DONE
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ................. 133.29ms DONE
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ................. 124.12ms DONE
+  2024-12-13 15:53:45 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:46 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:53:46 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:47 App\Jobs\ProcessDelivery ................. 127.57ms DONE
+  2024-12-13 15:53:47 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:47 App\Jobs\ProcessDelivery ................. 773.63ms DONE
+  2024-12-13 15:53:47 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:48 App\Jobs\ProcessDelivery ................. 689.70ms DONE
+  2024-12-13 15:53:48 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:48 App\Jobs\ProcessDelivery ................. 134.89ms DONE
+  2024-12-13 15:53:48 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:49 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:53:49 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:50 App\Jobs\ProcessDelivery ................. 445.61ms DONE
+  2024-12-13 15:53:50 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:50 App\Jobs\ProcessDelivery ................. 124.36ms DONE
+  2024-12-13 15:53:50 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:50 App\Jobs\ProcessDelivery ................. 144.67ms DONE
+  2024-12-13 15:53:50 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:50 App\Jobs\ProcessDelivery ................. 137.62ms DONE
+  2024-12-13 15:53:50 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:51 App\Jobs\ProcessDelivery ................. 638.96ms DONE
+  2024-12-13 15:53:51 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:52 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:53:52 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:53 App\Jobs\ProcessDelivery ................. 130.30ms DONE
+  2024-12-13 15:53:53 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:54 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:53:54 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:54 App\Jobs\ProcessDelivery ................. 746.20ms DONE
+  2024-12-13 15:53:54 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:55 App\Jobs\ProcessDelivery ................. 447.36ms DONE
+  2024-12-13 15:53:55 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:56 App\Jobs\ProcessDelivery ................. 779.62ms DONE
+  2024-12-13 15:53:56 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:56 App\Jobs\ProcessDelivery ................. 139.04ms DONE
+  2024-12-13 15:53:56 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:58 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:53:58 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:58 App\Jobs\ProcessDelivery ................. 745.67ms DONE
+  2024-12-13 15:53:58 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:59 App\Jobs\ProcessDelivery ................. 334.23ms DONE
+  2024-12-13 15:53:59 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:59 App\Jobs\ProcessDelivery ................. 136.82ms DONE
+  2024-12-13 15:53:59 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:53:59 App\Jobs\ProcessDelivery ................. 606.17ms DONE
+  2024-12-13 15:53:59 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:00 App\Jobs\ProcessDelivery ................. 291.04ms DONE
+  2024-12-13 15:54:00 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:00 App\Jobs\ProcessDelivery ................. 181.57ms DONE
+  2024-12-13 15:54:00 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:00 App\Jobs\ProcessDelivery ................. 157.90ms DONE
+  2024-12-13 15:54:00 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:00 App\Jobs\ProcessDelivery ................. 136.29ms DONE
+  2024-12-13 15:54:00 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:02 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:54:02 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:03 App\Jobs\ProcessDelivery ................. 775.06ms DONE
+  2024-12-13 15:54:03 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:03 App\Jobs\ProcessDelivery ................. 149.87ms DONE
+  2024-12-13 15:54:09 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:09 App\Jobs\ProcessDelivery ................. 146.15ms DONE
+  2024-12-13 15:54:09 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:10 App\Jobs\ProcessDelivery ................. 554.37ms DONE
+  2024-12-13 15:54:10 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:10 App\Jobs\ProcessDelivery ................. 133.05ms DONE
+  2024-12-13 15:54:10 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:10 App\Jobs\ProcessDelivery ................. 429.22ms DONE
+  2024-12-13 15:54:10 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:11 App\Jobs\ProcessDelivery ................. 583.32ms DONE
+  2024-12-13 15:54:11 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:12 App\Jobs\ProcessDelivery ................. 741.73ms DONE
+  2024-12-13 15:54:12 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:13 App\Jobs\ProcessDelivery ................. 998.21ms DONE
+  2024-12-13 15:54:13 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:13 App\Jobs\ProcessDelivery ................. 287.99ms DONE
+  2024-12-13 15:54:13 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:14 App\Jobs\ProcessDelivery ................. 892.88ms DONE
+  2024-12-13 15:54:14 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:15 App\Jobs\ProcessDelivery ................. 603.84ms DONE
+  2024-12-13 15:54:15 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:15 App\Jobs\ProcessDelivery ................. 778.13ms DONE
+  2024-12-13 15:54:15 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:16 App\Jobs\ProcessDelivery ................. 312.74ms DONE
+  2024-12-13 15:54:16 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:17 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:54:17 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:17 App\Jobs\ProcessDelivery ................. 169.97ms DONE
+  2024-12-13 15:54:17 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:18 App\Jobs\ProcessDelivery ................. 469.96ms DONE
+  2024-12-13 15:54:18 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:18 App\Jobs\ProcessDelivery ................. 608.90ms DONE
+  2024-12-13 15:54:18 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:19 App\Jobs\ProcessDelivery ................. 440.03ms DONE
+  2024-12-13 15:54:19 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:19 App\Jobs\ProcessDelivery ................. 455.11ms DONE
+  2024-12-13 15:54:19 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:20 App\Jobs\ProcessDelivery ................. 732.54ms DONE
+  2024-12-13 15:54:20 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:54:21 App\Jobs\ProcessDelivery ................. 481.72ms DONE
+  2024-12-13 15:56:24 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:26 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:56:26 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:26 App\Jobs\ProcessDelivery ................. 138.73ms DONE
+  2024-12-13 15:56:26 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:27 App\Jobs\ProcessDelivery ................. 866.34ms DONE
+  2024-12-13 15:56:27 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:27 App\Jobs\ProcessDelivery ................. 721.09ms DONE
+  2024-12-13 15:56:27 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:28 App\Jobs\ProcessDelivery ................. 980.57ms DONE
+  2024-12-13 15:56:28 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:29 App\Jobs\ProcessDelivery ................. 755.85ms DONE
+  2024-12-13 15:56:29 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:30 App\Jobs\ProcessDelivery ................. 294.95ms DONE
+  2024-12-13 15:56:30 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:30 App\Jobs\ProcessDelivery ................. 617.62ms DONE
+  2024-12-13 15:56:30 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:31 App\Jobs\ProcessDelivery ................. 450.08ms DONE
+  2024-12-13 15:56:31 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:32 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:56:41 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:42 App\Jobs\ProcessDelivery ................. 447.30ms DONE
+  2024-12-13 15:56:42 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:43 App\Jobs\ProcessDelivery ................. 858.78ms DONE
+  2024-12-13 15:56:43 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:44 App\Jobs\ProcessDelivery ....................... 1s DONE
+  2024-12-13 15:56:44 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:44 App\Jobs\ProcessDelivery ................. 135.42ms DONE
+  2024-12-13 15:56:44 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:45 App\Jobs\ProcessDelivery ................. 576.80ms DONE
+  2024-12-13 15:56:45 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:45 App\Jobs\ProcessDelivery ................. 597.37ms DONE
+  2024-12-13 15:56:45 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:46 App\Jobs\ProcessDelivery ................. 538.51ms DONE
+  2024-12-13 15:56:46 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:46 App\Jobs\ProcessDelivery ................. 615.79ms DONE
+  2024-12-13 15:56:46 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:47 App\Jobs\ProcessDelivery ................. 450.76ms DONE
+  2024-12-13 15:56:47 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:47 App\Jobs\ProcessDelivery ................. 323.93ms DONE
+  2024-12-13 15:56:47 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:47 App\Jobs\ProcessDelivery ................. 152.48ms DONE
+  2024-12-13 15:56:47 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:48 App\Jobs\ProcessDelivery ................. 628.58ms DONE
+  2024-12-13 15:56:48 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:48 App\Jobs\ProcessDelivery ................. 130.04ms DONE
+  2024-12-13 15:56:48 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:49 App\Jobs\ProcessDelivery ................. 336.76ms DONE
+  2024-12-13 15:56:49 App\Jobs\ProcessDelivery ....................... RUNNING
+  2024-12-13 15:56:49 App\Jobs\ProcessDelivery ................. 747.71ms DONE

@@ -1,0 +1,172 @@
+2024-12-12 21:43:19,099 INFO Set uid to user 33 succeeded
+2024-12-12 21:43:19,102 INFO supervisord started with pid 1
+2024-12-12 21:43:20,106 INFO spawned: 'laravel-worker' with pid 7
+2024-12-12 21:43:20,108 INFO spawned: 'php-fpm' with pid 8
+2024-12-12 21:43:21,147 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-12 21:43:21,148 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-12 21:55:31,293 WARN received SIGQUIT indicating exit request
+2024-12-12 21:55:31,294 INFO waiting for laravel-worker, php-fpm to die
+2024-12-12 21:55:31,299 INFO stopped: php-fpm (exit status 0)
+2024-12-12 21:55:31,308 INFO stopped: laravel-worker (exit status 0)
+2024-12-12 21:57:15,233 INFO Set uid to user 33 succeeded
+2024-12-12 21:57:15,235 INFO supervisord started with pid 1
+2024-12-12 21:57:16,239 INFO spawned: 'laravel-worker' with pid 7
+2024-12-12 21:57:16,241 INFO spawned: 'php-fpm' with pid 8
+2024-12-12 21:57:17,282 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-12 21:57:17,282 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 01:06:20,988 WARN received SIGQUIT indicating exit request
+2024-12-13 01:06:20,988 INFO waiting for laravel-worker, php-fpm to die
+2024-12-13 01:06:20,993 INFO stopped: php-fpm (exit status 0)
+2024-12-13 01:06:21,005 INFO stopped: laravel-worker (exit status 0)
+2024-12-13 01:43:04,478 INFO Set uid to user 33 succeeded
+2024-12-13 01:43:04,481 INFO supervisord started with pid 1
+2024-12-13 01:43:05,485 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 01:43:05,489 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 01:43:06,601 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 01:43:06,602 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 13:54:11,404 INFO Set uid to user 33 succeeded
+2024-12-13 13:54:11,407 INFO supervisord started with pid 1
+2024-12-13 13:54:12,411 INFO spawned: 'laravel-worker' with pid 6
+2024-12-13 13:54:12,414 INFO spawned: 'php-fpm' with pid 7
+2024-12-13 13:54:13,566 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 13:54:13,567 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 13:57:07,072 WARN received SIGQUIT indicating exit request
+2024-12-13 13:57:07,073 INFO waiting for laravel-worker, php-fpm to die
+2024-12-13 13:57:07,079 INFO stopped: php-fpm (exit status 0)
+2024-12-13 13:57:07,092 INFO stopped: laravel-worker (exit status 0)
+2024-12-13 14:06:22,500 INFO Set uid to user 33 succeeded
+2024-12-13 14:06:22,507 INFO supervisord started with pid 1
+2024-12-13 14:06:23,511 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 14:06:23,515 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 14:06:24,572 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:06:24,572 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:06:24,726 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:06:25,731 INFO spawned: 'laravel-worker' with pid 15
+2024-12-13 14:06:26,124 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:06:27,129 INFO spawned: 'laravel-worker' with pid 20
+2024-12-13 14:06:27,596 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:06:29,602 INFO spawned: 'laravel-worker' with pid 25
+2024-12-13 14:06:29,903 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:06:32,911 INFO spawned: 'laravel-worker' with pid 30
+2024-12-13 14:06:33,169 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:06:34,171 INFO gave up: laravel-worker entered FATAL state, too many start retries too quickly
+2024-12-13 14:11:03,701 WARN received SIGQUIT indicating exit request
+2024-12-13 14:11:03,701 INFO waiting for php-fpm to die
+2024-12-13 14:11:04,707 INFO stopped: php-fpm (exit status 0)
+2024-12-13 14:11:12,507 INFO Set uid to user 33 succeeded
+2024-12-13 14:11:12,509 INFO supervisord started with pid 1
+2024-12-13 14:11:13,512 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 14:11:13,514 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 14:11:14,555 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:11:14,555 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:11:14,777 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:11:15,782 INFO spawned: 'laravel-worker' with pid 15
+2024-12-13 14:11:16,183 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:11:17,187 INFO spawned: 'laravel-worker' with pid 20
+2024-12-13 14:11:17,456 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:11:18,459 WARN received SIGQUIT indicating exit request
+2024-12-13 14:11:18,459 INFO waiting for laravel-worker, php-fpm to die
+2024-12-13 14:11:18,463 INFO stopped: php-fpm (exit status 0)
+2024-12-13 14:11:27,801 INFO Set uid to user 33 succeeded
+2024-12-13 14:11:27,804 INFO supervisord started with pid 1
+2024-12-13 14:11:28,806 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 14:11:28,808 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 14:11:29,139 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:11:30,144 INFO spawned: 'laravel-worker' with pid 15
+2024-12-13 14:11:30,145 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:11:30,439 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:11:32,445 INFO spawned: 'laravel-worker' with pid 20
+2024-12-13 14:11:32,732 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:11:35,740 INFO spawned: 'laravel-worker' with pid 25
+2024-12-13 14:11:36,177 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:11:37,179 INFO gave up: laravel-worker entered FATAL state, too many start retries too quickly
+2024-12-13 14:13:17,379 WARN received SIGQUIT indicating exit request
+2024-12-13 14:13:17,380 INFO waiting for php-fpm to die
+2024-12-13 14:13:17,386 INFO stopped: php-fpm (exit status 0)
+2024-12-13 14:13:28,166 INFO Set uid to user 33 succeeded
+2024-12-13 14:13:28,167 INFO supervisord started with pid 1
+2024-12-13 14:13:29,171 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 14:13:29,174 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 14:13:30,117 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:13:31,120 INFO spawned: 'laravel-worker' with pid 15
+2024-12-13 14:13:31,120 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:13:31,505 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:13:33,511 INFO spawned: 'laravel-worker' with pid 20
+2024-12-13 14:13:33,963 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:13:36,970 INFO spawned: 'laravel-worker' with pid 25
+2024-12-13 14:13:37,251 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:13:38,254 INFO gave up: laravel-worker entered FATAL state, too many start retries too quickly
+2024-12-13 14:17:38,727 WARN received SIGQUIT indicating exit request
+2024-12-13 14:17:38,727 INFO waiting for php-fpm to die
+2024-12-13 14:17:38,733 INFO stopped: php-fpm (exit status 0)
+2024-12-13 14:18:57,962 INFO Set uid to user 33 succeeded
+2024-12-13 14:18:57,964 INFO supervisord started with pid 1
+2024-12-13 14:18:58,968 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 14:18:58,972 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 14:19:00,020 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:19:00,020 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:19:00,032 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:19:01,035 INFO spawned: 'laravel-worker' with pid 15
+2024-12-13 14:19:01,472 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:19:02,476 INFO spawned: 'laravel-worker' with pid 20
+2024-12-13 14:19:02,770 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:19:04,776 INFO spawned: 'laravel-worker' with pid 25
+2024-12-13 14:19:05,065 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:19:08,072 INFO spawned: 'laravel-worker' with pid 30
+2024-12-13 14:19:08,336 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:19:09,338 INFO gave up: laravel-worker entered FATAL state, too many start retries too quickly
+2024-12-13 14:32:35,223 WARN received SIGQUIT indicating exit request
+2024-12-13 14:32:35,223 INFO waiting for php-fpm to die
+2024-12-13 14:32:35,229 INFO stopped: php-fpm (exit status 0)
+2024-12-13 14:34:55,464 INFO Set uid to user 33 succeeded
+2024-12-13 14:34:55,467 INFO supervisord started with pid 1
+2024-12-13 14:34:56,471 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 14:34:56,474 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 14:34:56,770 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:34:57,773 INFO spawned: 'laravel-worker' with pid 15
+2024-12-13 14:34:57,773 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 14:34:57,959 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:34:59,965 INFO spawned: 'laravel-worker' with pid 20
+2024-12-13 14:35:00,181 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:35:03,188 INFO spawned: 'laravel-worker' with pid 25
+2024-12-13 14:35:03,393 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 14:35:04,395 INFO gave up: laravel-worker entered FATAL state, too many start retries too quickly
+2024-12-13 15:42:28,392 WARN received SIGQUIT indicating exit request
+2024-12-13 15:42:28,393 INFO waiting for php-fpm to die
+2024-12-13 15:42:28,397 INFO stopped: php-fpm (exit status 0)
+2024-12-13 15:45:36,226 INFO Set uid to user 33 succeeded
+2024-12-13 15:45:36,228 INFO supervisord started with pid 1
+2024-12-13 15:45:37,232 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 15:45:37,235 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 15:45:37,547 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 15:45:38,551 INFO spawned: 'laravel-worker' with pid 15
+2024-12-13 15:45:38,552 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 15:45:38,771 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 15:45:40,777 INFO spawned: 'laravel-worker' with pid 20
+2024-12-13 15:45:40,978 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 15:45:43,986 INFO spawned: 'laravel-worker' with pid 25
+2024-12-13 15:45:44,202 WARN exited: laravel-worker (exit status 1; not expected)
+2024-12-13 15:45:45,204 INFO gave up: laravel-worker entered FATAL state, too many start retries too quickly
+2024-12-13 15:53:13,311 WARN received SIGQUIT indicating exit request
+2024-12-13 15:53:13,311 INFO waiting for php-fpm to die
+2024-12-13 15:53:13,317 INFO stopped: php-fpm (exit status 0)
+2024-12-13 15:53:22,612 INFO Set uid to user 33 succeeded
+2024-12-13 15:53:22,614 INFO supervisord started with pid 1
+2024-12-13 15:53:23,618 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 15:53:23,621 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 15:53:25,107 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 15:53:25,107 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 15:54:38,125 WARN received SIGQUIT indicating exit request
+2024-12-13 15:54:38,125 INFO waiting for laravel-worker, php-fpm to die
+2024-12-13 15:54:38,130 INFO stopped: php-fpm (exit status 0)
+2024-12-13 15:54:38,137 INFO stopped: laravel-worker (exit status 0)
+2024-12-13 15:56:14,250 INFO Set uid to user 33 succeeded
+2024-12-13 15:56:14,254 INFO supervisord started with pid 1
+2024-12-13 15:56:15,258 INFO spawned: 'laravel-worker' with pid 7
+2024-12-13 15:56:15,261 INFO spawned: 'php-fpm' with pid 8
+2024-12-13 15:56:16,308 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 15:56:16,308 INFO success: php-fpm entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-13 15:57:24,839 WARN received SIGQUIT indicating exit request
+2024-12-13 15:57:24,840 INFO waiting for laravel-worker, php-fpm to die
+2024-12-13 15:57:24,844 INFO stopped: php-fpm (exit status 0)
+2024-12-13 15:57:24,850 INFO stopped: laravel-worker (exit status 0)

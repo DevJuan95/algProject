@@ -1,0 +1,6 @@
+2024-12-11 22:07:50,075 INFO supervisord started with pid 15
+2024-12-11 22:07:51,079 INFO spawned: 'laravel-worker' with pid 16
+2024-12-11 22:07:52,270 INFO success: laravel-worker entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2024-12-11 22:11:16,160 WARN received SIGINT indicating exit request
+2024-12-11 22:11:16,161 INFO waiting for laravel-worker to die
+2024-12-11 22:11:16,172 INFO stopped: laravel-worker (exit status 0)
