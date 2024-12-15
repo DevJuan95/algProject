@@ -259,6 +259,9 @@
       <excludeFolder url="file://$MODULE_DIR$/gateway/vendor/lcobucci/clock" />
       <excludeFolder url="file://$MODULE_DIR$/gateway/vendor/lcobucci/jwt" />
       <excludeFolder url="file://$MODULE_DIR$/gateway/vendor/tymon/jwt-auth" />
+      <excludeFolder url="file://$MODULE_DIR$/gateway/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/kitchen/vendor" />
+      <excludeFolder url="file://$MODULE_DIR$/warehouse/vendor" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
